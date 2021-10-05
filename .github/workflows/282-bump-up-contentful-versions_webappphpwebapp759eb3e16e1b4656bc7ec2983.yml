@@ -54,7 +54,7 @@ jobs:
         uses: azure/webapps-deploy@v2
         id: deploy-to-webapp
         with:
-          app-name: 'WebAppphpwebapp759eb3e16e1b4656bc7ec2983'
+          app-name: 'WebAppphpwebappf516ca4736114273b7bec6cd8'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1032E7729F554C0D87E581F0E1AA8ECD }}
           package: .
