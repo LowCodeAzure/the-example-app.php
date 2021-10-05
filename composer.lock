@@ -1851,7 +1851,7 @@
                 "composer-plugin-api": "^1.0",
                 "php": "^7.0"
             },
-            "require-dev": {
+            "require": {
                 "composer/composer": "^1.0.2",
                 "symfony/dotenv": "^3.4|^4.0|^5.0",
                 "symfony/phpunit-bridge": "^3.4.19|^4.1.8|^5.0",
